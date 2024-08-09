@@ -1,5 +1,7 @@
 # vue-tasks
 
+Configurar las variables de entorno tomando como ejemplo el archivo .env.example
+
 ## Project setup
 ```
 yarn install
